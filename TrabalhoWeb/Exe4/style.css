@@ -1,0 +1,14 @@
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    border-bottom: 6px solid grey;
+    text-align: center;
+
+}
+#caixa {
+   width: 360px;
+   border: 5px solid black;
+}
+h1 {
+   margin-left: 130px;
+}

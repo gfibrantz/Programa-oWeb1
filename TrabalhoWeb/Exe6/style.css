@@ -1,0 +1,27 @@
+label {
+    font-size: 20px;
+}
+input {
+    margin: 5px 10px 0 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+p {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button {
+    
+    padding: 10px 20px;
+    background-color: blue;
+    border: 1px solid black;
+    color: white;
+    cursor: pointer;
+    border-radius: 12px;
+      
+}
+button:hover {
+    background-color: lightblue;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}

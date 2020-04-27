@@ -1,0 +1,37 @@
+nav {
+    border: 5px red solid;
+    background-color: blue;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 30px;
+    padding: 0;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+.menu li {
+    color: white;
+}
+nav a {
+    color: white;
+}
+.menu ul {
+    display: none;
+}
+.teste li:hover {
+    background-color: red;
+}
+.menu li:hover ul {
+  display: block;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.menu li:hover ul {
+    position: absolute;
+    background-color: lightskyblue;
+    font-size: 30px;
+  }
